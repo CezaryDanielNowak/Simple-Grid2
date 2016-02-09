@@ -1,0 +1,15 @@
+{
+	"name": "Simple-Grid2",
+	"version": "1.0.0",
+	"homepage": "https://github.com/CezaryDanielNowak/Simple-Grid2",
+	"authors": [
+		"CezaryDanielNowak"
+	],
+	"description": "Simple Grid is a basic lightweight grid",
+	"main": "simplegrid.css",
+	"keywords": [
+		"grid-system"
+	],
+	"license": "MIT",
+	"ignore": []
+}
