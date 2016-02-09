@@ -1,5 +1,14 @@
 {
-  "name" : "Simple-Grid2",
-  "version": "1.0.0",
-  "style" : "*.css"
+  "name": "simple-grid2",
+  "version": "1.0.1",
+  "style": "*.css",
+  "main": "grid-generation.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CezaryDanielNowak/Simple-Grid2.git"
+  },
+  "author": "Cezary Daniel Nowak",
+  "license": "MIT",
+  "homepage": "https://github.com/CezaryDanielNowak/Simple-Grid2"
 }
